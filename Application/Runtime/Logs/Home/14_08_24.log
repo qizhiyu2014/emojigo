@@ -1,0 +1,2520 @@
+[ 2014-08-24T00:11:54+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000235s ]
+
+[ 2014-08-24T00:11:58+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000244s ]
+
+[ 2014-08-24T00:15:41+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000220s ]
+
+[ 2014-08-24T00:16:21+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000229s ]
+
+[ 2014-08-24T00:18:20+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005833s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2014-08-24T00:22:53+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2014-08-24T00:23:28+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004853s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004877s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000232s ]
+
+[ 2014-08-24T00:24:21+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004119s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000217s ]
+
+[ 2014-08-24T00:24:43+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000217s ]
+
+[ 2014-08-24T00:25:30+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004463s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000246s ]
+
+[ 2014-08-24T00:25:31+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004241s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000209s ]
+
+[ 2014-08-24T00:25:33+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004533s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000223s ]
+
+[ 2014-08-24T00:26:17+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000206s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000225s ]
+
+[ 2014-08-24T00:26:18+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000210s ]
+
+[ 2014-08-24T00:26:38+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004278s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2014-08-24T00:28:42+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004109s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000217s ]
+
+[ 2014-08-24T01:02:17+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000211s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000230s ]
+
+[ 2014-08-24T01:02:20+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000222s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000239s ]
+
+[ 2014-08-24T02:10:36+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2014-08-24T02:42:43+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+
+[ 2014-08-24T02:46:40+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001243s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000238s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2014-08-24T02:47:00+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001298s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000221s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2014-08-24T02:56:35+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000225s ]
+
+[ 2014-08-24T03:00:30+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 61 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000215s ]
+
+[ 2014-08-24T03:17:20+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2014-08-24T16:41:20+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003448s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2014-08-24T16:41:43+08:00 ] ::1 /emojigo/home/createevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000230s ]
+ERR: 无法加载控制器:Createevent
+
+[ 2014-08-24T16:41:52+08:00 ] ::1 /emojigo/home/event/createevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+
+[ 2014-08-24T16:42:41+08:00 ] ::1 /emojigo/home/event/createevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+
+[ 2014-08-24T16:43:46+08:00 ] ::1 /emojigo/home/event/createevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001268s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000605s ]
+SQL: SELECT * FROM `emojigo_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000217s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 48 行.
+SQL: INSERT INTO `emojigo_event` (`uid`,`name`,`time`,`content`) VALUES (1,'fuck','2014-08-24 16:43:46','go and fuck yourself') [ RunTime:0.020470s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 66 LIMIT 1   [ RunTime:0.000291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000362s ]
+
+[ 2014-08-24T16:45:27+08:00 ] ::1 /emojigo/home/event/getmessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001265s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000835s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000594s ]
+NOTIC: [8] Undefined variable: num /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000568s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `eid` = 59 ORDER BY publish_time desc  [ RunTime:0.000199s ]
+ERR: Think\Model:getSpeaker方法不存在！
+
+[ 2014-08-24T16:46:01+08:00 ] ::1 /emojigo/home/event/getmessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001243s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000589s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000593s ]
+NOTIC: [8] Undefined variable: num /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000506s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `eid` = 59 ORDER BY publish_time desc  [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000245s ]
+
+[ 2014-08-24T16:49:10+08:00 ] ::1 /emojigo/home/event/getuserevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001242s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000589s ]
+NOTIC: [2] Missing argument 2 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 64 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [2] Missing argument 3 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 64 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [8] Undefined variable: lastid /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+NOTIC: [8] Undefined variable: num /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+SQL: SELECT * FROM `emojigo_event` WHERE `uid` = 1 ORDER BY time desc  [ RunTime:0.000239s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2014-08-24T16:50:04+08:00 ] ::1 /emojigo/home/event/getuserevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001306s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000672s ]
+NOTIC: [2] Missing argument 2 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 64 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [2] Missing argument 3 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 64 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [8] Undefined variable: lastid /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+NOTIC: [8] Undefined variable: num /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+SQL: SELECT * FROM `emojigo_event` WHERE `uid` = 1 ORDER BY time desc  [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2014-08-24T17:29:56+08:00 ] ::1 /emojigo/home/event/getmessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001224s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000501s ]
+NOTIC: [8] Undefined variable: num /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000541s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `eid` = 59 ORDER BY publish_time desc  [ RunTime:0.000191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2014-08-24T17:31:05+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000218s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001264s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000483s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+ERR: 非法数据对象！:[eid=>59]
+
+[ 2014-08-24T17:34:39+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001376s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000694s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000716s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 17:34:39','love you!',0) [ RunTime:0.019516s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 8 LIMIT 1   [ RunTime:0.000251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2014-08-24T17:36:06+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001212s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000599s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000649s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 17:36:06','love you!',0) [ RunTime:0.000320s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 9 LIMIT 1   [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000262s ]
+
+[ 2014-08-24T17:45:58+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001318s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000552s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 17:45:58','love you!',0) [ RunTime:0.000355s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 10 LIMIT 1   [ RunTime:0.000163s ]
+NOTIC: [8] Undefined variable: event /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 114 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2014-08-24T17:46:01+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001302s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000549s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 17:46:01','love you!',0) [ RunTime:0.000326s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 11 LIMIT 1   [ RunTime:0.000178s ]
+NOTIC: [8] Undefined variable: event /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 114 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2014-08-24T17:47:41+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001484s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000738s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000787s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000559s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 17:47:41','love you!',0) [ RunTime:0.000368s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 12 LIMIT 1   [ RunTime:0.000198s ]
+NOTIC: [8] Undefined variable: event /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 114 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2014-08-24T17:48:18+08:00 ] ::1 /emojigo/home/event/createevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001266s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000608s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000591s ]
+SQL: SELECT * FROM `emojigo_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000270s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 48 行.
+SQL: INSERT INTO `emojigo_event` (`uid`,`name`,`time`,`publish`,`content`) VALUES (1,'fuck','2014-08-24 17:48:18',1,'go and fuck yourself') [ RunTime:0.000360s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 67 LIMIT 1   [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2014-08-24T17:49:24+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+
+[ 2014-08-24T17:50:00+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001361s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000642s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 17:50:00','love you!',0) [ RunTime:0.000304s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 13 LIMIT 1   [ RunTime:0.000159s ]
+NOTIC: [8] Undefined variable: event /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 114 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000265s ]
+
+[ 2014-08-24T17:50:16+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001381s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000559s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 17:50:16','love you!',0) [ RunTime:0.000372s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 14 LIMIT 1   [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2014-08-24T17:50:47+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001302s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000659s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 17:50:47','love you!',0) [ RunTime:0.000390s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 15 LIMIT 1   [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000251s ]
+
+[ 2014-08-24T17:52:01+08:00 ] ::1 /emojigo/home/event/createevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000210s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001369s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000637s ]
+SQL: SELECT * FROM `emojigo_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000198s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 48 行.
+SQL: INSERT INTO `emojigo_event` (`uid`,`name`,`time`,`publish`,`content`) VALUES (1,'fuck','2014-08-24 17:52:01',1,'go and fuck yourself') [ RunTime:0.000365s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 68 LIMIT 1   [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000265s ]
+
+[ 2014-08-24T17:52:01+08:00 ] ::1 /emojigo/home/event/createevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001258s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000600s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000612s ]
+SQL: SELECT * FROM `emojigo_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000257s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 48 行.
+SQL: INSERT INTO `emojigo_event` (`uid`,`name`,`time`,`publish`,`content`) VALUES (1,'fuck','2014-08-24 17:52:01',1,'go and fuck yourself') [ RunTime:0.000337s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 69 LIMIT 1   [ RunTime:0.000230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2014-08-24T17:53:31+08:00 ] ::1 /emojigo/home/event/sendmessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001157s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000694s ]
+ERR: 非法操作:sendmessage
+
+[ 2014-08-24T17:53:46+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001865s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000559s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 17:53:46','love you!',0) [ RunTime:0.000337s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 16 LIMIT 1   [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2014-08-24T17:54:08+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001220s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000700s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000594s ]
+
+[ 2014-08-24T17:54:44+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001253s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000672s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000610s ]
+
+[ 2014-08-24T17:54:54+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.001251s ]
+
+[ 2014-08-24T17:55:05+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001364s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000517s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000584s ]
+
+[ 2014-08-24T17:55:06+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001351s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000611s ]
+
+[ 2014-08-24T18:12:06+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+
+[ 2014-08-24T18:12:38+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001469s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000600s ]
+ERR: Think\Model:eventMessage方法不存在！
+
+[ 2014-08-24T18:13:21+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001260s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000589s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000592s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 18:13:21','love you!',0) [ RunTime:0.000360s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 17 LIMIT 1   [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000265s ]
+
+[ 2014-08-24T18:18:41+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001259s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000528s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 18:18:41','love you!',0) [ RunTime:0.000365s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 18 LIMIT 1   [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000263s ]
+
+[ 2014-08-24T18:20:14+08:00 ] ::1 /emojigo/home/event/createevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000216s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001623s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000637s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000650s ]
+SQL: SELECT * FROM `emojigo_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000268s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 48 行.
+SQL: INSERT INTO `emojigo_event` (`uid`,`name`,`time`,`publish`,`content`) VALUES (1,'fuck','2014-08-24 18:20:14',1,'go and fuck yourself') [ RunTime:0.000341s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 70 LIMIT 1   [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2014-08-24T18:20:15+08:00 ] ::1 /emojigo/home/event/createevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001339s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000612s ]
+SQL: SELECT * FROM `emojigo_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000220s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 48 行.
+SQL: INSERT INTO `emojigo_event` (`uid`,`name`,`time`,`publish`,`content`) VALUES (1,'fuck','2014-08-24 18:20:15',1,'go and fuck yourself') [ RunTime:0.000292s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 71 LIMIT 1   [ RunTime:0.000121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2014-08-24T18:20:25+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001242s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000638s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000582s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 18:20:25','love you!',0) [ RunTime:0.000270s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 19 LIMIT 1   [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2014-08-24T18:21:27+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+
+[ 2014-08-24T18:21:42+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001277s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000685s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000560s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 18:21:42','love you!',0) [ RunTime:0.000352s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 20 LIMIT 1   [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000222s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000244s ]
+
+[ 2014-08-24T18:31:09+08:00 ] ::1 /emojigo/home/user/createvistor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000213s ]
+
+[ 2014-08-24T18:31:27+08:00 ] ::1 /emojigo/home/user/createvistor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+
+[ 2014-08-24T18:31:41+08:00 ] ::1 /emojigo/home/user/createvistor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `emojigo_vistor` [ RunTime:0.000534s ]
+ERR: 1146:Table 'emojigo.emojigo_vistor' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `emojigo_vistor`
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/UserModel.class.php 第 12 行.
+SQL: INSERT INTO `emojigo_vistor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 18:31:41') [ RunTime:0.000124s ]
+ERR: 1146:Table 'emojigo.emojigo_vistor' doesn't exist
+ [ SQL语句 ] : INSERT INTO `emojigo_vistor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 18:31:41')
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000252s ]
+
+[ 2014-08-24T18:36:45+08:00 ] ::1 /emojigo/home/user/createvisitor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.001216s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000578s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/UserModel.class.php 第 12 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 18:36:45') [ RunTime:0.019514s ]
+SQL: SELECT * FROM `emojigo_visitor` WHERE `id` = 2 LIMIT 1   [ RunTime:0.000212s ]
+NOTIC: [8] Undefined variable: vistor /Library/WebServer/Documents/emojigo/Application/Home/Model/UserModel.class.php 第 22 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2014-08-24T18:39:52+08:00 ] ::1 /emojigo/home/user/createvisitor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000594s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/UserModel.class.php 第 12 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 18:39:52') [ RunTime:0.000335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000255s ]
+
+[ 2014-08-24T18:40:33+08:00 ] ::1 /emojigo/home/user/createvisitor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.001291s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000561s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/UserModel.class.php 第 12 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 18:40:33') [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000252s ]
+
+[ 2014-08-24T18:41:16+08:00 ] ::1 /emojigo/home/user/createvisitor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.001255s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000588s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/UserModel.class.php 第 12 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 18:41:16') [ RunTime:0.000392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000218s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000239s ]
+
+[ 2014-08-24T19:13:28+08:00 ] ::1 /emojigo/home/user/createvistor
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000212s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.001291s ]
+ERR: 非法操作:createvistor
+
+[ 2014-08-24T19:13:29+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000237s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001272s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000719s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000631s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 19:13:29','love you!',0) [ RunTime:0.000374s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 21 LIMIT 1   [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000291s ]
+
+[ 2014-08-24T19:13:31+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001436s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000584s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000617s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 19:13:31','love you!',0) [ RunTime:0.000253s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 22 LIMIT 1   [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2014-08-24T19:24:01+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001260s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000972s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:24:01') [ RunTime:0.000325s ]
+NOTIC: [8] Undefined index: id /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000509s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:24:01','love you!',0) [ RunTime:0.000100s ]
+ERR: 1048:Column 'speakerid' cannot be null
+ [ SQL语句 ] : INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:24:01','love you!',0)
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000260s ]
+
+[ 2014-08-24T19:24:39+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000590s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000600s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000514s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:24:39') [ RunTime:0.000338s ]
+NOTIC: [8] Undefined index: id /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000553s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:24:39','love you!',0) [ RunTime:0.000095s ]
+ERR: 1048:Column 'speakerid' cannot be null
+ [ SQL语句 ] : INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:24:39','love you!',0)
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000250s ]
+
+[ 2014-08-24T19:25:33+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001268s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000641s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000554s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:25:33') [ RunTime:0.000370s ]
+NOTIC: [8] Undefined offset: 1 /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000554s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:25:33','love you!',0) [ RunTime:0.000102s ]
+ERR: 1048:Column 'speakerid' cannot be null
+ [ SQL语句 ] : INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:25:33','love you!',0)
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000233s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000254s ]
+
+[ 2014-08-24T19:26:52+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000612s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000527s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:26:52') [ RunTime:0.000348s ]
+NOTIC: [8] Undefined offset: 1 /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000519s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:26:52','love you!',0) [ RunTime:0.000097s ]
+ERR: 1048:Column 'speakerid' cannot be null
+ [ SQL语句 ] : INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:26:52','love you!',0)
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000254s ]
+
+[ 2014-08-24T19:27:18+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000229s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001262s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000637s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000498s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:27:18') [ RunTime:0.000373s ]
+NOTIC: [8] Undefined variable: result /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000511s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:27:18','love you!',0) [ RunTime:0.000142s ]
+ERR: 1048:Column 'speakerid' cannot be null
+ [ SQL语句 ] : INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,null,'2014-08-24 19:27:18','love you!',0)
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2014-08-24T19:27:32+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000639s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000546s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:27:32') [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000495s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,1,'2014-08-24 19:27:32','love you!',0) [ RunTime:0.000249s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 23 LIMIT 1   [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000253s ]
+
+[ 2014-08-24T19:27:48+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001218s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000639s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000638s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000586s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:27:48') [ RunTime:0.000330s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000527s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,2,'2014-08-24 19:27:48','love you!',0) [ RunTime:0.000309s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 24 LIMIT 1   [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2014-08-24T19:28:43+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001244s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000579s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000551s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:28:43') [ RunTime:0.000351s ]
+NOTIC: [8] Use of undefined constant content - assumed 'content' /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 50 行.
+NOTIC: [8] Array to string conversion /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000549s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,'Arraycontentid','2014-08-24 19:28:43','love you!',0) [ RunTime:0.000253s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 25 LIMIT 1   [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2014-08-24T19:30:42+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001281s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000555s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000636s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:30:42') [ RunTime:0.000357s ]
+NOTIC: [8] Undefined variable: result /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 45 行.
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000558s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,14,'2014-08-24 19:30:42','love you!',0) [ RunTime:0.000276s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 26 LIMIT 1   [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000263s ]
+
+[ 2014-08-24T19:31:25+08:00 ] ::1 /emojigo/home/event/sendcomment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001262s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `emojigo_visitor` [ RunTime:0.000570s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 63 行.
+SQL: INSERT INTO `emojigo_visitor` (`nickname`,`create_time`) VALUES ('Rocky_Qi','2014-08-24 19:31:25') [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `emojigo_message` [ RunTime:0.000505s ]
+NOTIC: [8] Undefined variable: timestamp /Library/WebServer/Documents/emojigo/Application/Home/Model/BaseEventModel.class.php 第 101 行.
+SQL: INSERT INTO `emojigo_message` (`eid`,`speakerid`,`publish_time`,`content`,`type`) VALUES (59,15,'2014-08-24 19:31:25','love you!',0) [ RunTime:0.000275s ]
+SQL: SELECT * FROM `emojigo_message` WHERE `id` = 27 LIMIT 1   [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000268s ]
+
+[ 2014-08-24T19:34:46+08:00 ] ::1 /emojigo/home/event/getuserevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000208s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001483s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000747s ]
+NOTIC: [2] Missing argument 2 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 68 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [2] Missing argument 3 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 68 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [8] Undefined variable: lastid /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+NOTIC: [8] Undefined variable: num /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+SQL: SELECT * FROM `emojigo_event` WHERE `uid` = 1 ORDER BY time desc  [ RunTime:0.000251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2014-08-24T19:52:19+08:00 ] ::1 /emojigo/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000230s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2014-08-24T20:31:02+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2014-08-24T20:35:33+08:00 ] ::1 /emojigo/home/index/getuserevent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+
+[ 2014-08-24T20:39:43+08:00 ] ::1 /emojigo/home/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001227s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000620s ]
+NOTIC: [2] Missing argument 2 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 72 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [2] Missing argument 3 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 72 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [8] Undefined variable: lastid /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+NOTIC: [8] Undefined variable: num /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+SQL: SELECT * FROM `emojigo_event` WHERE `uid` = 1 ORDER BY time desc  [ RunTime:0.000242s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2014-08-24T20:49:34+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001240s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000586s ]
+NOTIC: [2] Missing argument 2 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 72 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [2] Missing argument 3 for Home\Model\EventModel::getUserEvent(), called in /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php on line 72 and defined /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 37 行.
+NOTIC: [8] Undefined variable: lastid /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+NOTIC: [8] Undefined variable: num /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 39 行.
+SQL: SELECT * FROM `emojigo_event` WHERE `uid` = 1 ORDER BY time desc  [ RunTime:0.000257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000260s ]
+
+[ 2014-08-24T21:40:39+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001207s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000559s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000627s ]
+
+[ 2014-08-24T21:41:46+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001301s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000695s ]
+
+[ 2014-08-24T21:42:12+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001225s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000686s ]
+
+[ 2014-08-24T21:42:52+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.002608s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001573s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.001326s ]
+
+[ 2014-08-24T21:42:57+08:00 ] ::1 /emojigo/home/event
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000222s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001497s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000790s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000951s ]
+
+[ 2014-08-24T21:43:04+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001222s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000577s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000642s ]
+
+[ 2014-08-24T21:43:28+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001246s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000658s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 88 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2014-08-24T21:44:01+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001345s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000595s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000580s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000320s ]
+
+[ 2014-08-24T21:51:41+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+
+[ 2014-08-24T21:51:59+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001240s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000583s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000684s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2014-08-24T21:52:25+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000648s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000262s ]
+
+[ 2014-08-24T21:52:50+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001231s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000624s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000197s ]
+
+[ 2014-08-24T21:53:37+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001307s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000621s ]
+
+[ 2014-08-24T21:53:38+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001397s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000659s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000700s ]
+
+[ 2014-08-24T21:54:23+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001278s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000611s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000625s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000181s ]
+
+[ 2014-08-24T21:54:34+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001238s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000646s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000653s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000184s ]
+
+[ 2014-08-24T21:55:13+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000640s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2014-08-24T21:56:30+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001292s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000690s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000260s ]
+
+[ 2014-08-24T21:56:37+08:00 ] ::1 /emojigo/home/event/59
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001271s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000616s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000633s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 59 LIMIT 1   [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2014-08-24T21:56:52+08:00 ] ::1 /emojigo/home/event/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001169s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000536s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY publish_time desc LIMIT 1   [ RunTime:0.000139s ]
+ERR: 1054:Unknown column 'publish_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `emojigo_event` ORDER BY publish_time desc LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2014-08-24T21:57:24+08:00 ] ::1 /emojigo/home/event/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000601s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY publish_time desc LIMIT 1   [ RunTime:0.000127s ]
+ERR: 1054:Unknown column 'publish_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `emojigo_event` ORDER BY publish_time desc LIMIT 1  
+
+[ 2014-08-24T21:58:08+08:00 ] ::1 /emojigo/home/event/59
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001322s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000613s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000581s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 59 LIMIT 1   [ RunTime:0.000188s ]
+NOTIC: [8] Array to string conversion /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 89 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2014-08-24T21:59:26+08:00 ] ::1 /emojigo/home/event/59
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001238s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000631s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 59 LIMIT 1   [ RunTime:0.000194s ]
+NOTIC: [8] Array to string conversion /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 89 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2014-08-24T21:59:30+08:00 ] ::1 /emojigo/home/event/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001281s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000598s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000241s ]
+NOTIC: [8] Array to string conversion /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 89 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2014-08-24T21:59:55+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000219s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001112s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000542s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000558s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000170s ]
+
+[ 2014-08-24T22:00:14+08:00 ] ::1 /emojigo/home/event/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001312s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000579s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000625s ]
+SQL: SELECT * FROM `emojigo_event` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000191s ]
+
+[ 2014-08-24T22:00:19+08:00 ] ::1 /emojigo/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001774s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000585s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000204s ]
+NOTIC: [8] Array to string conversion /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 89 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2014-08-24T22:00:27+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000218s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001154s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000530s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000525s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000191s ]
+NOTIC: [8] Array to string conversion /Library/WebServer/Documents/emojigo/Application/Home/Controller/EventController.class.php 第 89 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2014-08-24T22:03:49+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000839s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000584s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000623s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000200s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/top-info.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/live.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/timeline.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009102s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2014-08-24T22:04:07+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001343s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000627s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/top-info.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/live.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/timeline.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009206s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2014-08-24T22:11:19+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000643s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000211s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/top-info.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/live.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/timeline.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009061s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000520s ]
+
+[ 2014-08-24T22:12:39+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001238s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000609s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000200s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/top-info.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/live.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/timeline.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009142s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2014-08-24T22:15:35+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001278s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000658s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000177s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/top-info.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/live.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/timeline.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2014-08-24T22:16:07+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001317s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000557s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000185s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/top-info.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/live.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/timeline.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009190s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2014-08-24T22:17:21+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001226s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000599s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000650s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000183s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/top-info.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/live.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/timeline.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2014-08-24T22:17:23+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001467s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.001017s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000281s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/top-info.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/live.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Application/Home/View/Event/timeline.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008908s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2014-08-24T22:18:37+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001335s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000700s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000275s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2014-08-24T22:20:57+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001292s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000589s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000684s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000203s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009539s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2014-08-24T22:21:07+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001321s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000663s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000193s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000043s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2014-08-24T23:25:33+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001294s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000649s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000695s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000202s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Application/Home/View/Public/head-meta.html): failed to open stream: No such file or directory /Library/WebServer/Documents/emojigo/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2014-08-24T23:42:17+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001285s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000621s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000177s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000014s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2014-08-24T23:59:01+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+NOTIC: [2048] Declaration of Home\Model\EventModel::getMessage() should be compatible with Home\Model\BaseEventModel::getMessage($eid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Home\Model\EventModel::getUserEvent() should be compatible with Home\Model\BaseEventModel::getUserEvent($uid, $lastid = 0, $num = 10) /Library/WebServer/Documents/emojigo/Application/Home/Model/EventModel.class.php 第 5 行.
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.001236s ]
+SQL: SHOW COLUMNS FROM `emojigo_event` [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `emojigo_user` [ RunTime:0.000588s ]
+SQL: SELECT * FROM `emojigo_event` ORDER BY time desc LIMIT 1   [ RunTime:0.000184s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000013s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000037s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008977s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009028s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+

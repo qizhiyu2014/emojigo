@@ -1,0 +1,29 @@
+    <script>
+        // public
+        var APP = '__APP__/';
+        var PUBLIC = '__PUBLIC__/';
+        var IMAGE = '__PUBLIC__/images/';  
+        var HEAD_BASE = '__HEAD_BASE__';
+        // user
+        <?php 
+            $online = getOnline(ONLINE_TYPE_USER);
+            $type = 'user';
+        
+            if($online == null) {
+                $online = getOnline(ONLINE_TYPE_VISITOR);
+                $type = 'visitor';
+                
+                if($online == null) {
+                    $type = '';
+                }
+            }
+        ?>        
+        var USER_ID = '<?php echo $online["id"];?>';
+        var USER_NAME = '<?php echo $online["nickname"];?>';
+        var USER_HEAD = '<?php echo $online["head_url"];?>';
+        var USER_TYPE = '<?php echo $type;?>';
+        
+        // event
+        var EVENT_STATE = '';
+        var EVENT_ID = '';
+    </script>

@@ -1,0 +1,19 @@
+
+<div id="event" data-position="fixed">
+	<div id="event-info">
+		<ul class="event-info">
+			<li id="event-title">{$eventinfo.name}:+1:</li>
+			<li id="event-content">{$eventinfo.content}</li>
+			<li id="event-time" ><lable style="position: relative; top: -2px;">:clock3: </lable>{$eventinfo.time}</li>
+			<li id="viewcount"><lable style="position: relative; top: -2px;">:eyes: </lable>{$eventinfo.view_count}</li>
+			<li id="event-id" value="{$eventinfo.id}" style="display: none">事件ID{$eventinfo.id}</li>
+
+		</ul>
+	</div>
+</div>
+<div id="event-mini" style="display: none">
+	<ul>
+		<li class="event-info-mini">{$eventinfo.name}</li>
+		<a class="event-info-button ui-btn"  href="#pagetwo"  data-transition="slideup">发评论</a>
+	</ul>
+</div>

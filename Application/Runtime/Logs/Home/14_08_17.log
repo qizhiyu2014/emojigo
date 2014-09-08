@@ -1,0 +1,338 @@
+[ 2014-08-17T13:04:54+08:00 ] ::1 /emojigo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015701s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2014-08-17T21:10:16+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2014-08-17T21:11:33+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004087s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000206s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2014-08-17T21:11:47+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009122s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009162s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2014-08-17T21:14:48+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004119s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000212s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000244s ]
+
+[ 2014-08-17T21:23:23+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000221s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000218s ]
+
+[ 2014-08-17T21:24:39+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000218s ]
+
+[ 2014-08-17T21:24:40+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000220s ]
+
+[ 2014-08-17T21:25:14+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2014-08-17T21:26:18+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000238s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000211s ]
+
+[ 2014-08-17T21:26:19+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000216s ]
+
+[ 2014-08-17T21:26:27+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003924s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000220s ]
+
+[ 2014-08-17T21:29:44+08:00 ] ::1 /emojigo/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 97 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 105 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 120 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 137 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: eventinfo /Library/WebServer/Documents/emojigo/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php 第 163 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000229s ]
+
