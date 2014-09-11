@@ -2,7 +2,7 @@
 // +----------------------------------------------------------------------
 // | ThinkPHP [ WE CAN DO IT JUST THINK IT ]
 // +----------------------------------------------------------------------
-// | Copyright (c) 2006-2014 http://thinkphp.cn All rights reserved.
+// | Copyright (c) 2006-2013 http://thinkphp.cn All rights reserved.
 // +----------------------------------------------------------------------
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
 // +----------------------------------------------------------------------
@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 
 /**
- * Think 系统函数库
+ * Think 函数库
  */
 
 /**
@@ -29,7 +29,7 @@ function C($name=null, $value=null,$default=null) {
     // 优先执行设置获取或赋值
     if (is_string($name)) {
         if (!strpos($name, '.')) {
-            $name = strtoupper($name);
+            $name = strtolower($name);
             if (is_null($value))
                 return isset($_config[$name]) ? $_config[$name] : $default;
             $_config[$name] = $value;
@@ -37,7 +37,7 @@ function C($name=null, $value=null,$default=null) {
         }
         // 二维数组设置和获取支持
         $name = explode('.', $name);
-        $name[0]   =  strtoupper($name[0]);
+        $name[0]   =  strtolower($name[0]);
         if (is_null($value))
             return isset($_config[$name[0]][$name[1]]) ? $_config[$name[0]][$name[1]] : $default;
         $_config[$name[0]][$name[1]] = $value;
@@ -45,50 +45,10 @@ function C($name=null, $value=null,$default=null) {
     }
     // 批量设置
     if (is_array($name)){
-        $_config = array_merge($_config, array_change_key_case($name,CASE_UPPER));
+        $_config = array_merge($_config, array_change_key_case($name));
         return;
     }
     return null; // 避免非法参数
-}
-
-/**
- * 加载配置文件 支持格式转换 仅支持一级配置
- * @param string $file 配置文件名
- * @param string $parse 配置解析方法 有些格式需要用户自己解析
- * @return void
- */
-function load_config($file,$parse=CONF_PARSE){
-    $ext  = pathinfo($file,PATHINFO_EXTENSION);
-    switch($ext){
-        case 'php':
-            return include $file;
-        case 'ini':
-            return parse_ini_file($file);
-        case 'yaml':
-            return yaml_parse_file($file);
-        case 'xml': 
-            return (array)simplexml_load_file($file);
-        case 'json':
-            return json_decode(file_get_contents($file), true);
-        default:
-            if(function_exists($parse)){
-                return $parse($file);
-            }else{
-                E(L('_NOT_SUPPERT_').':'.$ext);
-            }
-    }
-}
-
-/**
- * 解析yaml文件返回一个数组
- * @param string $file 配置文件名
- * @return array
- */
-if (!function_exists('yaml_parse_file')) {
-    function yaml_parse_file($file) {
-        vendor('spyc.Spyc');
-        return Spyc::YAMLLoad($file);
-    }
 }
 
 /**
@@ -226,12 +186,8 @@ function T($template='',$layer=''){
     $auto   =   C('AUTOLOAD_NAMESPACE');
     if($auto && isset($auto[$extend])){ // 扩展资源
         $baseUrl    =   $auto[$extend].$module.$layer.'/';
-    }elseif(C('VIEW_PATH')){ 
-        // 改变模块视图目录
-        $baseUrl    =   C('VIEW_PATH');
-    }elseif(defined('TMPL_PATH')){ 
-        // 指定全局视图目录
-        $baseUrl    =   TMPL_PATH.$module;
+    }elseif(C('VIEW_PATH')){ // 指定视图目录
+        $baseUrl    =   C('VIEW_PATH').$module.'/';
     }else{
         $baseUrl    =   APP_PATH.$module.$layer.'/';
     }
@@ -247,7 +203,11 @@ function T($template='',$layer=''){
     }elseif(false === strpos($file, '/')){
         $file = CONTROLLER_NAME . $depr . $file;
     }elseif('/' != $depr){
-        $file   =   substr_count($file,'/')>1 ? substr_replace($file,$depr,strrpos($file,'/'),1) : str_replace('/', $depr, $file);
+        if(substr_count($file,'/')>1){
+            $file   =   substr_replace($file,$depr,strrpos($file,'/'),1);
+        }else{
+            $file   =   str_replace('/', $depr, $file);
+        }
     }
     return $baseUrl.($theme?$theme.'/':'').$file.C('TMPL_TEMPLATE_SUFFIX');
 }
@@ -263,10 +223,9 @@ function T($template='',$layer=''){
  * @param string $name 变量的名称 支持指定类型
  * @param mixed $default 不存在的时候默认值
  * @param mixed $filter 参数过滤方法
- * @param mixed $datas 要获取的额外数据源
  * @return mixed
  */
-function I($name,$default='',$filter=null,$datas=null) {
+function I($name,$default='',$filter=null) {
     if(strpos($name,'.')) { // 指定参数来源
         list($method,$name) =   explode('.',$name,2);
     }else{ // 默认为自动判断
@@ -288,30 +247,20 @@ function I($name,$default='',$filter=null,$datas=null) {
                     $input  =  $_GET;
             }
             break;
-        case 'path'    :   
-            $input  =   array();
-            if(!empty($_SERVER['PATH_INFO'])){
-                $depr   =   C('URL_PATHINFO_DEPR');
-                $input  =   explode($depr,trim($_SERVER['PATH_INFO'],$depr));            
-            }
-            break;
         case 'request' :   $input =& $_REQUEST;   break;
         case 'session' :   $input =& $_SESSION;   break;
         case 'cookie'  :   $input =& $_COOKIE;    break;
         case 'server'  :   $input =& $_SERVER;    break;
         case 'globals' :   $input =& $GLOBALS;    break;
-        case 'data'    :   $input =& $datas;      break;
         default:
             return NULL;
     }
-    if(''==$name) { // 获取全部变量
+    if(empty($name)) { // 获取全部变量
         $data       =   $input;
         array_walk_recursive($data,'filter_exp');
         $filters    =   isset($filter)?$filter:C('DEFAULT_FILTER');
         if($filters) {
-            if(is_string($filters)){
-                $filters    =   explode(',',$filters);
-            }
+            $filters    =   explode(',',$filters);
             foreach($filters as $filter){
                 $data   =   array_map_recursive($filter,$data); // 参数过滤
             }
@@ -321,12 +270,7 @@ function I($name,$default='',$filter=null,$datas=null) {
         is_array($data) && array_walk_recursive($data,'filter_exp');
         $filters    =   isset($filter)?$filter:C('DEFAULT_FILTER');
         if($filters) {
-            if(is_string($filters)){
-                $filters    =   explode(',',$filters);
-            }elseif(is_int($filters)){
-                $filters    =   array($filters);
-            }
-            
+            $filters    =   explode(',',$filters);
             foreach($filters as $filter){
                 if(function_exists($filter)) {
                     $data   =   is_array($data)?array_map_recursive($filter,$data):$filter($data); // 参数过滤
@@ -505,7 +449,7 @@ function vendor($class, $baseUrl = '', $ext='.php') {
 }
 
 /**
- * 实例化模型类 格式 [资源://][模块/]模型
+ * D函数用于实例化模型类 格式 [资源://][模块/]模型
  * @param string $name 资源地址
  * @param string $layer 模型层名称
  * @return Model
@@ -513,7 +457,7 @@ function vendor($class, $baseUrl = '', $ext='.php') {
 function D($name='',$layer='') {
     if(empty($name)) return new Think\Model;
     static $_model  =   array();
-    $layer          =   $layer? : C('DEFAULT_M_LAYER');
+    $layer          =   $layer? $layer : C('DEFAULT_M_LAYER');
     if(isset($_model[$name.$layer]))
         return $_model[$name.$layer];
     $class          =   parse_res_name($name,$layer);
@@ -536,7 +480,7 @@ function D($name='',$layer='') {
 }
 
 /**
- * 实例化一个没有模型文件的Model
+ * M函数用于实例化一个没有模型文件的Model
  * @param string $name Model名称 支持指定基础模型 例如 MongoModel:User
  * @param string $tablePrefix 表前缀
  * @param mixed $connection 数据库连接信息
@@ -591,33 +535,7 @@ function parse_res_name($name,$layer,$level=1){
 }
 
 /**
- * 用于实例化访问控制器
- * @param string $name 控制器名
- * @param string $path 控制器命名空间（路径）
- * @return Controller|false
- */
-function controller($name,$path=''){
-    $layer  =   C('DEFAULT_C_LAYER');
-    if(!C('APP_USE_NAMESPACE')){
-        $class  =   parse_name($name, 1).$layer;
-        import(MODULE_NAME.'/'.$layer.'/'.$class);
-    }else{
-        $class  =   MODULE_NAME.'\\'.($path?$path.'\\':'').$layer;
-        $array  =   explode('/',$name);
-        foreach($array as $name){
-            $class  .=   '\\'.parse_name($name, 1);
-        }
-        $class .=   $layer;
-    }
-    if(class_exists($class)) {
-        return new $class();
-    }else {
-        return false;
-    }
-}
-
-/**
- * 实例化多层控制器 格式：[资源://][模块/]控制器
+ * A函数用于实例化控制器 格式：[资源://][模块/]控制器
  * @param string $name 资源地址
  * @param string $layer 控制层名称
  * @param integer $level 控制器层次
@@ -625,11 +543,10 @@ function controller($name,$path=''){
  */
 function A($name,$layer='',$level='') {
     static $_action = array();
-    $layer  =   $layer? : C('DEFAULT_C_LAYER');
-    $level  =   $level? : ($layer == C('DEFAULT_C_LAYER')?C('CONTROLLER_LEVEL'):1);
+    $layer  =   $layer? $layer : C('DEFAULT_C_LAYER');
+    $level  =   $level? $level : ($layer == C('DEFAULT_C_LAYER')?C('CONTROLLER_LEVEL'):1);
     if(isset($_action[$name.$layer]))
         return $_action[$name.$layer];
-    
     $class  =   parse_res_name($name,$layer,$level);
     if(class_exists($class)) {
         $action             =   new $class();
@@ -896,7 +813,7 @@ function U($url='',$vars='',$suffix=true,$domain=false) {
             $module =   '';
             
             if(!empty($path)) {
-                $var[$varModule]    =   implode($depr,$path);
+                $var[$varModule]    =   array_pop($path);
             }else{
                 if(C('MULTI_MODULE')) {
                     if(MODULE_NAME != C('DEFAULT_MODULE') || !C('MODULE_ALLOW_LIST')){
@@ -930,7 +847,7 @@ function U($url='',$vars='',$suffix=true,$domain=false) {
         if(isset($route)) {
             $url    =   __APP__.'/'.rtrim($url,$depr);
         }else{
-            $module =   (defined('BIND_MODULE') && BIND_MODULE==$module )? '' : $module;
+            $module =   defined('BIND_MODULE') ? '' : $module;
             $url    =   __APP__.'/'.($module?$module.MODULE_PATHINFO_DEPR:'').implode($depr,array_reverse($var));
         }
         if($urlCase){
@@ -1154,7 +1071,7 @@ function data_to_xml($data, $item='item', $id='id') {
  * @param mixed $value session值
  * @return mixed
  */
-function session($name='',$value='') {
+function session($name,$value='') {
     $prefix   =  C('SESSION_PREFIX');
     if(is_array($name)) { // session初始化 在session_start 之前调用
         if(isset($name['prefix'])) C('SESSION_PREFIX',$name['prefix']);
@@ -1190,10 +1107,7 @@ function session($name='',$value='') {
         // 启动session
         if(C('SESSION_AUTO_START'))  session_start();
     }elseif('' === $value){ 
-        if(''===$name){
-            // 获取全部的session
-            return $prefix ? $_SESSION[$prefix] : $_SESSION;
-        }elseif(0===strpos($name,'[')) { // session 操作
+        if(0===strpos($name,'[')) { // session 操作
             if('[pause]'==$name){ // 暂停session
                 session_write_close();
             }elseif('[start]'==$name){ // 启动session
@@ -1259,14 +1173,13 @@ function session($name='',$value='') {
  * @param mixed $options cookie参数
  * @return mixed
  */
-function cookie($name='', $value='', $option=null) {
+function cookie($name, $value='', $option=null) {
     // 默认设置
     $config = array(
         'prefix'    =>  C('COOKIE_PREFIX'), // cookie 名称前缀
         'expire'    =>  C('COOKIE_EXPIRE'), // cookie 保存时间
         'path'      =>  C('COOKIE_PATH'), // cookie 保存路径
         'domain'    =>  C('COOKIE_DOMAIN'), // cookie 有效域名
-        'httponly'  =>  C('COOKIE_HTTPONLY'), // httponly设置
     );
     // 参数设置(会覆盖黙认设置)
     if (!is_null($option)) {
@@ -1275,9 +1188,6 @@ function cookie($name='', $value='', $option=null) {
         elseif (is_string($option))
             parse_str($option, $option);
         $config     = array_merge($config, array_change_key_case($option));
-    }
-    if(!empty($config['httponly'])){
-        ini_set("session.cookie_httponly", 1);
     }
     // 清除指定前缀的所有cookie
     if (is_null($name)) {
@@ -1294,11 +1204,8 @@ function cookie($name='', $value='', $option=null) {
             }
         }
         return;
-    }elseif('' === $name){
-        // 获取全部的cookie
-        return $_COOKIE;
     }
-    $name = $config['prefix'] . str_replace('.', '_', $name);
+    $name = $config['prefix'] . $name;
     if ('' === $value) {
         if(isset($_COOKIE[$name])){
             $value =    $_COOKIE[$name];
@@ -1344,9 +1251,9 @@ function load_ext_file($path) {
     if($configs = C('LOAD_EXT_CONFIG')) {
         if(is_string($configs)) $configs =  explode(',',$configs);
         foreach ($configs as $key=>$config){
-            $file   = $path.'Conf/'.$config.CONF_EXT;
+            $file   = $path.'Conf/'.$config.'.php';
             if(is_file($file)) {
-                is_numeric($key)?C(load_config($file)):C($key,load_config($file));
+                is_numeric($key)?C(include $file):C($key,include $file);
             }
         }
     }
@@ -1389,53 +1296,18 @@ function get_client_ip($type = 0,$adv=false) {
  */
 function send_http_status($code) {
     static $_status = array(
-            // Informational 1xx
-            100 => 'Continue',
-            101 => 'Switching Protocols',
-            // Success 2xx
-            200 => 'OK',
-            201 => 'Created',
-            202 => 'Accepted',
-            203 => 'Non-Authoritative Information',
-            204 => 'No Content',
-            205 => 'Reset Content',
-            206 => 'Partial Content',
-            // Redirection 3xx
-            300 => 'Multiple Choices',
-            301 => 'Moved Permanently',
-            302 => 'Moved Temporarily ',  // 1.1
-            303 => 'See Other',
-            304 => 'Not Modified',
-            305 => 'Use Proxy',
-            // 306 is deprecated but reserved
-            307 => 'Temporary Redirect',
-            // Client Error 4xx
-            400 => 'Bad Request',
-            401 => 'Unauthorized',
-            402 => 'Payment Required',
-            403 => 'Forbidden',
-            404 => 'Not Found',
-            405 => 'Method Not Allowed',
-            406 => 'Not Acceptable',
-            407 => 'Proxy Authentication Required',
-            408 => 'Request Timeout',
-            409 => 'Conflict',
-            410 => 'Gone',
-            411 => 'Length Required',
-            412 => 'Precondition Failed',
-            413 => 'Request Entity Too Large',
-            414 => 'Request-URI Too Long',
-            415 => 'Unsupported Media Type',
-            416 => 'Requested Range Not Satisfiable',
-            417 => 'Expectation Failed',
-            // Server Error 5xx
-            500 => 'Internal Server Error',
-            501 => 'Not Implemented',
-            502 => 'Bad Gateway',
-            503 => 'Service Unavailable',
-            504 => 'Gateway Timeout',
-            505 => 'HTTP Version Not Supported',
-            509 => 'Bandwidth Limit Exceeded'
+        // Success 2xx
+        200 => 'OK',
+        // Redirection 3xx
+        301 => 'Moved Permanently',
+        302 => 'Moved Temporarily ',  // 1.1
+        // Client Error 4xx
+        400 => 'Bad Request',
+        403 => 'Forbidden',
+        404 => 'Not Found',
+        // Server Error 5xx
+        500 => 'Internal Server Error',
+        503 => 'Service Unavailable',
     );
     if(isset($_status[$code])) {
         header('HTTP/1.1 '.$code.' '.$_status[$code]);

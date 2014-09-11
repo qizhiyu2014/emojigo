@@ -2,7 +2,7 @@
 // +----------------------------------------------------------------------
 // | ThinkPHP [ WE CAN DO IT JUST THINK IT ]
 // +----------------------------------------------------------------------
-// | Copyright (c) 2006-2014 http://thinkphp.cn All rights reserved.
+// | Copyright (c) 2006-2013 http://thinkphp.cn All rights reserved.
 // +----------------------------------------------------------------------
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
 // +----------------------------------------------------------------------
@@ -47,5 +47,4 @@ return array(
     '_RECORD_HAS_UPDATE_'    => '記錄已經更新',
     '_NOT_ALLOW_PHP_'        => '模板禁用PHP代碼',
     '_PARAM_ERROR_'          => '參數錯誤或者未定義',
-    '_ERROR_QUERY_EXPRESS_'  => '錯誤的查詢條件',    
 );
