@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-<meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,minimal-ui">
+    <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,minimal-ui">
     <title>emojiGo</title>
-    <link   rel="stylesheet" href="/emojigo/Public/css/jquery.mobile-1.4.3.css"></link>
+    <link   rel="stylesheet" href="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.css"></link>
     <link   rel="stylesheet" href="/emojigo/Public/css/test.css"></link>
-    <script src="/emojigo/Public/js/jquery/jquery-1.11.1.js"></script>
-    <script src="/emojigo/Public/js/jquery/jquery.mobile-1.4.3.js"></script>
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.js"></script>
     <script src="/emojigo/Public/js/jquery/jquery.emoji.js"></script>
     <script type="text/javascript">
         $(document).ready(function(){
@@ -21,12 +21,12 @@
     if(uid) {
         var data = {name:localStorage.name, uid:localStorage.uid};
 
-        $.post("http://localhost/emojigo/home/event/getLocalStorage",data);
+        $.post("../home/event/getLocalStorage",data);
 
         setOnline();
     }else{
         var data = {};
-        $.post("http://localhost/emojigo/home/event/getLocalStorage",data);
+        $.post("../home/event/getLocalStorage",data);
     }
 });
 
@@ -47,8 +47,10 @@
 <div id="event" data-position="fixed">
 	<div id="event-info">
 		<ul class="event-info">
-			<li id="event-title"><?php echo ($eventinfo["name"]); ?>:+1:</li>
-			<li id="event-content"><?php echo ($eventinfo["content"]); ?></li>
+			<li id="event-title"><?php echo ($eventinfo["name"]); ?></li>
+			<li id="event-describe"><?php echo ($eventinfo["describe"]); ?></li>
+			<li id="event-content" style="display: none"><?php echo ($eventinfo["content"]); ?></li>
+
 			<li id="event-time" ><lable style="position: relative; top: -2px;">:clock3: </lable><?php echo ($eventinfo["time"]); ?></li>
 			<li id="viewcount"><lable style="position: relative; top: -2px;">:eyes: </lable><?php echo ($eventinfo["view_count"]); ?></li>
 			<li id="event-id" value="<?php echo ($eventinfo["id"]); ?>" style="display: none">事件ID<?php echo ($eventinfo["id"]); ?></li>
@@ -61,6 +63,21 @@
 		<li class="event-info-mini"><?php echo ($eventinfo["name"]); ?></li>
 		<a class="event-info-button ui-btn"  href="#pagetwo"  data-transition="slideup">发评论</a>
 	</ul>
+</div>
+
+<div style="position: absolute;top: 65px;z-index: 10;width: 68%;margin: 16%;">
+	<div id="notice" style="display: none">
+		<a href="" onclick="closethis();" class="ui-btn-right ui-icon-delete ui-btn-icon-notext ui-corner-all">Icon only</a>
+		<span id="notice-content" class="notice-content">恭喜你答对了</span>
+
+		<div id="notice-event-content" style="display: none">
+			<span class="notice-content">正确答案是:</span>
+
+			<span id="notice-answer" class="notice-content">正确答案是正确答案是正确答案是正确答案是正确答案是正确答案是正确答案是</span>
+
+		</div>
+
+	</div>
 </div>
             
             	
@@ -90,8 +107,10 @@
 <div id="event" data-position="fixed">
 	<div id="event-info">
 		<ul class="event-info">
-			<li id="event-title"><?php echo ($eventinfo["name"]); ?>:+1:</li>
-			<li id="event-content"><?php echo ($eventinfo["content"]); ?></li>
+			<li id="event-title"><?php echo ($eventinfo["name"]); ?></li>
+			<li id="event-describe"><?php echo ($eventinfo["describe"]); ?></li>
+			<li id="event-content" style="display: none"><?php echo ($eventinfo["content"]); ?></li>
+
 			<li id="event-time" ><lable style="position: relative; top: -2px;">:clock3: </lable><?php echo ($eventinfo["time"]); ?></li>
 			<li id="viewcount"><lable style="position: relative; top: -2px;">:eyes: </lable><?php echo ($eventinfo["view_count"]); ?></li>
 			<li id="event-id" value="<?php echo ($eventinfo["id"]); ?>" style="display: none">事件ID<?php echo ($eventinfo["id"]); ?></li>
@@ -105,10 +124,25 @@
 		<a class="event-info-button ui-btn"  href="#pagetwo"  data-transition="slideup">发评论</a>
 	</ul>
 </div>
+
+<div style="position: absolute;top: 65px;z-index: 10;width: 68%;margin: 16%;">
+	<div id="notice" style="display: none">
+		<a href="" onclick="closethis();" class="ui-btn-right ui-icon-delete ui-btn-icon-notext ui-corner-all">Icon only</a>
+		<span id="notice-content" class="notice-content">恭喜你答对了</span>
+
+		<div id="notice-event-content" style="display: none">
+			<span class="notice-content">正确答案是:</span>
+
+			<span id="notice-answer" class="notice-content">正确答案是正确答案是正确答案是正确答案是正确答案是正确答案是正确答案是</span>
+
+		</div>
+
+	</div>
+</div>
                 <input type="text" id="name" placeholder="输入昵称" oninput="" data-corners="false">
                 <textarea cols="40" rows="8" name="textarea" oninput="showbutton(content)" placeholder="输入这段Emoji的含义" data-corners="false" id="content"></textarea>
 
-                <a href="#pageone"  id="sendcomment" data-transition="fade" onclick="sendcomment()" class="ui-btn ui-mini" style="display: none;">发送</a>
+                <a href="#pageone"  id="sendcomment" data-transition="fade" onclick="sendcomment()" class="ui-btn" style="display: none;">发送</a>
 
             </div>
 

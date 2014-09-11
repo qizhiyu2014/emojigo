@@ -23,11 +23,12 @@ use Think\Controller;
             $name       = I('name');
             $publish	= 0;// $this->I('publish');
             $content    = I('content');
+            $describe   = I("describe");
             $time       = 0;
 
 
 
-            $result   = $this->handle->createEvent($uid, $name, $time, $publish, $content);
+            $result   = $this->handle->createEvent($uid, $name, $time, $publish, $content, $describe);
 
 
             if ($result['flag'] !== true) {
@@ -77,7 +78,6 @@ print_r($result);
             $json_msg = json_encode($result);
             echo ($json_msg);
 
-            // print_r($result);
             // $this->assign('comment',$result);
             // $this->display('comment');
 
@@ -141,9 +141,27 @@ print_r($result);
          }
 
 
+         public function contentCompare() {
+            $eid        = I("eid");
+            $content    = I("content");
+
+            $result = $this->handle->contentCompare($eid, $content);
+
+            $json_msg = json_encode($result);
+
+            echo($json_msg);
 
 
 
+         }
+
+
+
+         public function test() {
+            $str = I("str");
+            $result = splitWords($str);
+            print_r($result);
+         }
 
 
 

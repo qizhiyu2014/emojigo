@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>emojiGo</title>
-    <link rel="stylesheet" href="../emojigo/Public/css/base-debug.css">
 </head>
   
   <body>
@@ -15,7 +14,6 @@
 
     </div>
 </header>
-
 
 
   </body>

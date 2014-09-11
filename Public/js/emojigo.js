@@ -3,7 +3,8 @@
 	var lastid = 0;
 	var sendMsg = 1; var getMsg = 2;
 	var allmsg = 0;
-	var state = 0;
+	var status = 0;
+	var test;
 
 
 
@@ -14,13 +15,13 @@ sendcomment.count = 0;
 function sendcomment() {
 	var content = $("#content").val();
 	var name = $("#name").val();
+	getMessageCount();
 	if(content&&name) {
 
 		if(!uid) {
 				var data = {name:name, content:content, eid:eid};
-				alert(data.name);
-				$.post("http://localhost/emojigo/home/event/sendcomment",data,function(data){
-					state = 1;
+				$.post("../home/event/sendcomment",data,function(data){
+
 					var msg = eval("["+data+"]");
 	
 					if(localStorage) {
@@ -29,16 +30,15 @@ function sendcomment() {
 						uid = msg[0].id;
 						setOnline();
 					}
-			}
-			);
+			});
+
 				sendcomment.count++;
 				document.getElementById("content").value = "";
 		}else{
 			var data = {name:localStorage.name, content:content, eid:eid};
-			$.post("http://localhost/emojigo/home/event/sendcomment",data);
-			state = 1;
+			$.post("../home/event/sendcomment",data);
+
 			if (sendcomment.count) {
-				alert("send is work")
 				data.time = now();
 				showComment(sendMsg, data);
 			};
@@ -50,29 +50,30 @@ function sendcomment() {
 
 		}
 	}else{
-		if(!content) alert(1); 
-		if(!name) alert(2); 
+		if(!content) alert("内容必须"); 
+		if(!name) alert("名字必须"); 
 
 
 	}
 
+	contentCompare(eid, content);
+
 	if (sendcomment.count == 1) {
-		getMessage();		
-		$("#getmessage").show();
+		getMessage();
+		// $("#event-content").show();		
 	};	
 }
 function getMessage() {
 
 	var data = {eid:eid, lastid:lastid};
-	$.post("http://localhost/emojigo/home/event/getMessage",data,function(data){var msg = eval(data);showComment(getMsg,msg);});
+	$.post("../home/event/getMessage",data,function(data){var msg = eval(data);showComment(getMsg,msg);});
 }
 
 showComment.count = 0;
 
 function showComment(type, data) {
 	if(type==1) {
-		alert("show is work");
-			var msg = "<ul id=\"comment\" class=\"comment\"><li class=\"reply-name\">"+":person_with_blond_hair:"+data.name+"</li><li class=\"reply-content\">"+data.content+"</li><li class=\"reply-time\">"+data.time+"</li></ul>";
+			var msg = "<ul id=\"comment\" class=\"comment\"><li class=\"reply-name\">"+":flushed:"+data.name+"</li><li class=\"reply-content\">"+data.content+"</li><li class=\"reply-time\">"+data.time+"</li></ul>";
 			$("#comment-box").prepend(msg);
 			emojigo();
 	}
@@ -85,8 +86,13 @@ function showComment(type, data) {
 		}
 		showComment.count+= i;
 
-		$("#getmessage").text("显示剩余"+(allmsg-showComment.count)+"条评论");
+		if (allmsg > showComment.count-1) {
+			$("#getmessage").show();	
+			$("#getmessage").text("显示剩余"+(allmsg-showComment.count)+"条评论");
 		emojigo();
+
+		};
+
 
 	}
 
@@ -122,7 +128,7 @@ function setOnline() {
 
 function getMessageCount() {
 	var data = {eid:eid};
-	$.post("http://localhost/emojigo/home/event/messagecount",data, function(data){
+	$.post("../home/event/messagecount",data, function(data){
 		var html = "共有"+data+"条评论";
 		$("#msgcount").html(html);
 		allmsg = data;
@@ -133,7 +139,7 @@ function getMessageCount() {
 
 function eventCount() {
 	var data = {eid:eid};
-	$.post("http://localhost/emojigo/home/event/updateeventcount",data);
+	$.post("../home/event/updateeventcount",data);
 
 }
 
@@ -153,11 +159,45 @@ function showbutton() {
          
 }
 
+function contentCompare(eid, content) {
+	var data = {eid:eid, content:content};
+	$.post("../home/event/contentCompare",data,function(data){
+		var result = eval('['+data+']');
+		if (result[0].flag == "right") {
+			status = 1;
+		};
+		if (result[0].flag == "wrong") {
+			status = 0;
+		};
 
+		shownoticebox(result);
 
+	});
 
+}
 
+function closethis() {
 
+	$("#notice").fadeOut();
+
+}
+
+function shownoticebox(data) {
+	var text = data[0].content;
+	$("#notice-content").text(text);
+	$("#notice").show();
+	if (status==0) {
+		setTimeout(function(){
+			$("#notice").fadeOut();
+		},3000);
+	};
+	if (status==1) {
+		var text = document.getElementById("event-content").innerHTML;
+		document.getElementById("notice-answer").innerHTML = text;
+		$("#notice-event-content").show();
+
+	};
+}
 
 
 

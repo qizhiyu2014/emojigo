@@ -12,7 +12,7 @@
 
   $.fn.emoji.replace = function(){
     var key = arguments[1];
-    var url = '../public/images/emojis';
+    var url = '../Public/images/emojis';
     var extension = '.png';
     var src = url + '/' + key + extension;
     return '<img class="emoji" width="20" height="20" align="absmiddle" src="' + src + '" alt="' + key + '" title="' + key + '" />';

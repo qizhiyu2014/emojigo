@@ -28,7 +28,7 @@ use Think\Model;
 				}
 		}
 
-		public function createEvent($uid,$name,$time,$publish,$content) {
+		public function createEvent($uid,$name,$time,$publish,$content,$describe) {
 			$usermodel = M('user');
 			$user = $usermodel->find($uid);
 			// if(!$user) {
@@ -53,6 +53,8 @@ use Think\Model;
 			$data['time'] 		= $time;
 			$data['publish']    = $publish;
 			$data['content']	= $content;
+			$data['describe']	= $describe;
+
 
 			$id = $this->add($data);
 
@@ -139,11 +141,27 @@ use Think\Model;
 			$data['view_count'] = $count;
 
 			$result = $event->save($data);
-			if($result) {
-				return createResult(true, $data);
-			}else {
-				return createResult(false,"未知错误，请稍后重试");
-			}
+
+			return $result;
+
+
+        }
+
+        public function contentCompare($eid, $content) {
+        	$id 	= $eid;
+            $event 	= $this->find($id);
+
+            $a = splitWords($event['content']);
+
+            $b = splitWords($content);
+
+            $c = array_intersect($a, $b);
+
+            $result[0] = (sizeof($c)-1)/(sizeof($a)-1);
+            $result[1] = (sizeof($b)-1)/(sizeof($a)-1);
+
+            return $result;
+
 
 
         }

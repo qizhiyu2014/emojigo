@@ -2,8 +2,10 @@
 <div id="event" data-position="fixed">
 	<div id="event-info">
 		<ul class="event-info">
-			<li id="event-title">{$eventinfo.name}:+1:</li>
-			<li id="event-content">{$eventinfo.content}</li>
+			<li id="event-title">{$eventinfo.name}</li>
+			<li id="event-describe">{$eventinfo.describe}</li>
+			<li id="event-content" style="display: none">{$eventinfo.content}</li>
+
 			<li id="event-time" ><lable style="position: relative; top: -2px;">:clock3: </lable>{$eventinfo.time}</li>
 			<li id="viewcount"><lable style="position: relative; top: -2px;">:eyes: </lable>{$eventinfo.view_count}</li>
 			<li id="event-id" value="{$eventinfo.id}" style="display: none">事件ID{$eventinfo.id}</li>
@@ -16,4 +18,19 @@
 		<li class="event-info-mini">{$eventinfo.name}</li>
 		<a class="event-info-button ui-btn"  href="#pagetwo"  data-transition="slideup">发评论</a>
 	</ul>
+</div>
+
+<div style="position: absolute;top: 65px;z-index: 10;width: 68%;margin: 16%;">
+	<div id="notice" style="display: none">
+		<a href="" onclick="closethis();" class="ui-btn-right ui-icon-delete ui-btn-icon-notext ui-corner-all">Icon only</a>
+		<span id="notice-content" class="notice-content">恭喜你答对了</span>
+
+		<div id="notice-event-content" style="display: none">
+			<span class="notice-content">正确答案是:</span>
+
+			<span id="notice-answer" class="notice-content">正确答案是正确答案是正确答案是正确答案是正确答案是正确答案是正确答案是</span>
+
+		</div>
+
+	</div>
 </div>

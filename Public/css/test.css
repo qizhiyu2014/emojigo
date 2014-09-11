@@ -99,8 +99,23 @@ body {
 	font-size: small;
 }
 
+#notice {
+	text-align: center;
+	z-index: 10;
+	background: rgba(221, 221, 221, 0.87);
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
 
-
+.notice-content {
+	display: block;
+	position: relative;
+	line-height:25px;
+	font-size: 19px;
+	text-shadow: 1px 1px rgba(128, 128, 128, 0.52);
+	width: 90%;
+	padding: 10px;
+}
 
 
 

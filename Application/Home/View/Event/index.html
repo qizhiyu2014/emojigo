@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-<meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,minimal-ui">
+    <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,minimal-ui">
     <title>emojiGo</title>
-    <link   rel="stylesheet" href="__PUBLIC__/css/jquery.mobile-1.4.3.css"></link>
+    <link   rel="stylesheet" href="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.css"></link>
     <link   rel="stylesheet" href="__PUBLIC__/css/test.css"></link>
-    <script src="__PUBLIC__/js/jquery/jquery-1.11.1.js"></script>
-    <script src="__PUBLIC__/js/jquery/jquery.mobile-1.4.3.js"></script>
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.js"></script>
     <script src="__PUBLIC__/js/jquery/jquery.emoji.js"></script>
     <script type="text/javascript">
         $(document).ready(function(){
@@ -21,12 +21,12 @@
     if(uid) {
         var data = {name:localStorage.name, uid:localStorage.uid};
 
-        $.post("http://localhost/emojigo/home/event/getLocalStorage",data);
+        $.post("../home/event/getLocalStorage",data);
 
         setOnline();
     }else{
         var data = {};
-        $.post("http://localhost/emojigo/home/event/getLocalStorage",data);
+        $.post("../home/event/getLocalStorage",data);
     }
 });
 
@@ -59,7 +59,7 @@
                 <input type="text" id="name" placeholder="输入昵称" oninput="" data-corners="false">
                 <textarea cols="40" rows="8" name="textarea" oninput="showbutton(content)" placeholder="输入这段Emoji的含义" data-corners="false" id="content"></textarea>
 
-                <a href="#pageone"  id="sendcomment" data-transition="fade" onclick="sendcomment()" class="ui-btn ui-mini" style="display: none;">发送</a>
+                <a href="#pageone"  id="sendcomment" data-transition="fade" onclick="sendcomment()" class="ui-btn" style="display: none;">发送</a>
 
             </div>
 

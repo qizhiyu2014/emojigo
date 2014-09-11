@@ -118,6 +118,24 @@ use Think\Model;
 
         }
 
+        public function contentCompare($eid, $content) {
+            $eid    = intval($eid);
+
+            $result = parent::contentCompare($eid, $content);
+
+            $rate = floor(($result[0])*10000)/10000*100;
+
+            if ($result[0]==1 && $result[0]==$result[1]) {
+                return createResult(right, "恭喜你!完全正确!");
+            } else if($result[0]==1) {
+                return createResult(wrong, "恭喜你你的回答包含了答案,但是不完全正确");
+            } else {
+                return createResult(wrong, '恭喜你答对'.$rate.'％');
+            }
+            
+
+        }
+
 
 
 
